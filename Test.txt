@@ -1,2 +1,9 @@
-ImtiazImtiaz  23
-Name: Imtiaz , Age: 23
+Name:		Age:	phone Number:
+-----		----	-------------
+\n		56	1
+\y		56	1
+\Î		56	1
+Mahanaj		20	190219
+Fahim		20	-1183199297
+mahanaj		21	912990343
+imtiaz		20	932904985
